@@ -32,7 +32,7 @@ class _FeaturesCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      width: 300,
+      width: 400,
       height: 100,
       child: Center(child: Text(cardName)),
     );}}
