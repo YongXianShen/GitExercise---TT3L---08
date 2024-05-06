@@ -14,7 +14,7 @@ class FeaturesCards extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Card(child: _FeaturesCard(cardName: 'Carpools')),
+              Card(child: _FeaturesCard(cardName: 'Carpool')),
               Card(child: _FeaturesCard(cardName: 'Food Delivery')),
               Card(child: _FeaturesCard(cardName: 'Roomate Finder')),
             ],
