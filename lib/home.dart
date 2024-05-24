@@ -9,7 +9,7 @@ class FeaturesCards extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        appBar: AppBar(title: const Text('Features')),
+        appBar: AppBar(title: const Text('Feature')),
         body: const Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
