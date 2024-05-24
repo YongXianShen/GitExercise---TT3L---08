@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
           'MMU SUPER APP',
           style:TextStyle(
             color:Colors.black,
-            fontSize:24,
+            fontSize:20,
             fontWeight:FontWeight.bold
           )
         ),
